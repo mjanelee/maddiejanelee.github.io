@@ -84,7 +84,7 @@ author:
   avatar           : "headshot.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Stanford, CA"
-  employer         : "Blish Lab"
+  employer         : "https://med.stanford.edu/blishlab.html"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wLN-FxAAAAAJ&hl=en"
   email            :
