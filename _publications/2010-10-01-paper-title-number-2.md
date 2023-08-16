@@ -2,7 +2,7 @@
 title: "Multi-omic profiling reveals widespread dysregulation of innate immunity and hematopoiesis in COVID-19"
 collection: publications
 permalink: /publication/multi-omic_profiling
-excerpt: 'This paper uses single-cell profiling demonstrates multifarious dysregulation of innate immune phenotype associated with COVID-19 severity. Severe COVID-19 is associated with hyperactivation of neutrophils and NK cells, while monocytes take on tolerogenic phenotypes. Meanwhile, mild COVID-19 is associated with limited, or rapidly resolved, immune perturbation.'
+excerpt: 'This paper uses single-cell profiling to explore how dysregulation of the innate immune system is associated with COVID-19 severity. Severe COVID-19 is associated with hyperactivation of neutrophils and NK cells, while monocytes take on tolerogenic phenotypes. Meanwhile, mild COVID-19 is associated with limited, or rapidly resolved, immune perturbation.'
 date: 2021-08-02
 venue: 'Journal of Experimental Medicine'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8210586/'
