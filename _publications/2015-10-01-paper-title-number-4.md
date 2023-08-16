@@ -3,7 +3,7 @@ title: "Defining the role of natural killer cells in COVID-19"
 collection: publications
 permalink: /publication/COVID_NK_review
 excerpt: 'This paper is a review of the literature relating to the NK cell response in COVID-19.'
-date: 2015-10-01
+date: 2023-07-17
 venue: 'Nature Immunology'
 paperurl: 'https://www.nature.com/articles/s41590-023-01560-8'
 citation: 'Lee, M.J., Blish, C.A. Defining the role of natural killer cells in COVID-19. Nat Immunol (2023). https://doi.org/10.1038/s41590-023-01560-8'
