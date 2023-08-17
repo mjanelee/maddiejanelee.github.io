@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Deep Phenotypic Analysis of Blood and Lymphoid T and NK Cells From HIV+ Controllers and ART-Suppressed Individuals"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/HIV_phenotyping
+excerpt: 'This paper used CyTOF profiling of paired blood and lymph node samples from aviremic HIV+ individuals to identify unique phenotypic profiles in elite controllers versus ART-suppressed individuals.'
+date: 2022-01-27
+venue: 'Frontiers in Immunology'
+paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8829545/'
+citation: 'George AF, Luo X, Neidleman J, et al. Deep Phenotypic Analysis of Blood and Lymphoid T and NK Cells From HIV+ Controllers and ART-Suppressed Individuals. Front Immunol. 2022;13:803417. Published 2022 Jan 27. doi:10.3389/fimmu.2022.803417'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+T and natural killer (NK) cells are effector cells with key roles in anti-HIV immunity, including in lymphoid tissues, the major site of HIV persistence. However, little is known about the features of these effector cells from people living with HIV (PLWH), particularly from those who initiated antiretroviral therapy (ART) during acute infection. Our study design was to use 42-parameter CyTOF to conduct deep phenotyping of paired blood- and lymph node (LN)-derived T and NK cells from three groups of HIV+ aviremic individuals: elite controllers (N = 5), and ART-suppressed individuals who had started therapy during chronic (N = 6) vs. acute infection (N = 8), the latter of which is associated with better outcomes. We found that acute-treated individuals are enriched for specific subsets of T and NK cells, including blood-derived CD56-CD16+ NK cells previously associated with HIV control, and LN-derived CD4+ T follicular helper cells with heightened expansion potential. An in-depth comparison of the features of the cells from blood vs. LNs of individuals from our cohort revealed that T cells from blood were more activated than those from LNs. By contrast, LNs were enriched for follicle-homing CXCR5+ CD8+ T cells, which expressed increased levels of inhibitory receptors and markers of survival and proliferation as compared to their CXCR5- counterparts. In addition, a subset of memory-like CD56brightTCF1+ NK cells was enriched in LNs relative to blood. These results together suggest unique T and NK cell features in acute-treated individuals, and highlight the importance of examining effector cells not only in blood but also the lymphoid tissue compartment, where the reservoir mostly persists, and where these cells take on distinct phenotypic features.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
