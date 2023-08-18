@@ -13,7 +13,6 @@ Hello! Thanks for checking out my website. My name is Maddie Lee and I'm a fifth
 <br>
 When I'm not in lab, you can find me hiking, reading, or hanging out with my cat, <a href="/files/minne!.jpg">Minneapolis</a>. I'm also an (amateur) artist--you can see examples of my work under the <a href="https://mjanelee.github.io/portfolio/">Portfolio</a> tab.
 <br>
-<br>
 <html>
 <body>
      <center>
