@@ -1,6 +1,8 @@
 ---
-title: "Coffee 1"
-excerpt: "<img src='/images/Coffee_2.JPG'>"
+title: "Grad Student Reaches for Caffeine"
+excerpt: "<img src='/images/Hand.jpg'
+           width=250
+           height=500>"
 collection: portfolio
 ---
 
