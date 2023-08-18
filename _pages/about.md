@@ -19,7 +19,7 @@ Hello is this working
   height="567">>
 
 <map name="image-map">
-    <area target="" alt="Multi-Omic paper" title="Multi-Omic paper" href="https://rupress.org/jem/article/218/8/e20210582/212379/Multi-omic-profiling-reveals-widespread" coords="0,0,333,500" shape="rect">
-    <area target="" alt="NK Evasion paper" title="NK Evasion paper" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9742201/" coords="333,0,667,500" shape="rect">
-</map>
+    <area target="" alt="Multi-Omic paper" title="Multi-Omic paper" href="https://rupress.org/jem/article/218/8/e20210582/212379/Multi-omic-profiling-reveals-widespread" coords="0,0,333,280" shape="rect">
+    <area target="" alt="NK Evasion paper" title="NK Evasion paper" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9742201/" coords="333,0,667,280" shape="rect">
+
 
