@@ -23,5 +23,3 @@ Hello is this working
     <area target="" alt="NK Evasion paper" title="NK Evasion paper" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9742201/" coords="333,0,667,500" shape="rect">
 </map>
 
-</body>
-</html>
