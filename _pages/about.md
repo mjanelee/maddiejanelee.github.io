@@ -9,7 +9,11 @@ redirect_from:
 ---
 Hello! Thanks for checking out my website. My name is Maddie Lee and I'm a fifth-year PhD student at Stanford University. I was born and raised in St. Paul, Minnesota and graduated from Washington University in St. Louis in 2019 with an A.B. in Biology. As an undergraduate, I worked in the lab of <a href="https://www.fehnigerlab.org/">Dr. Todd Fehiniger</a> at the Washington University School of Medicine, where I developed an interest in NK cells. I followed this passion to <a href="https://med.stanford.edu/blishlab.html">Dr. Catherine Blish's lab</a> at Stanford, where the advent of the COVID-19 pandemic in the spring of 2020 drove me to study the NK cell response in the context of this disease. Through my dissertation research in the Blish Lab, I am striving to generate a holistic picture of the NK cell response in COVID-19. To learn more about each of the individual projects that comprise my thesis work, check out the graphic below!
 <br>
+<br>
+<br>
 When I'm not in lab, you can find me hiking, reading, or hanging out with my cat, Minneapolis. I'm also an (amateur) artist--you can see examples of my work under the <a href="https://mjanelee.github.io/portfolio/">Portfolio</a> tab.
+<br>
+<br>
 <html>
 <body>
      <center>
