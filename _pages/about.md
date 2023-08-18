@@ -24,8 +24,8 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
   height="567">>
 
 <map name="image-map">
-    <area target="" alt="Multi-Omic paper" title="Multi-Omic paper" href="https://mjanelee.github.io/publication/multi-omic_profiling" coords="0,0,290,240" shape="rect">
-    <area target="" alt="NK Evasion paper" title="NK Evasion paper" href="https://mjanelee.github.io/publication/SARS-CoV-2_NK_escape" coords="300,0,570,240" shape="rect">
-    <area target="" alt="COVID NK review" title="COVID NK review" href="[https://www.nature.com/articles/s41590-023-01560-8](https://mjanelee.github.io/publication/COVID_NK_review)https://mjanelee.github.io/publication/COVID_NK_review" coords="580,240,1000,567" shape="rect">
+    <area target="" alt="Multi-Omic paper" title="Multi-Omic paper" href="https://mjanelee.github.io/publication/multi-omic_profiling" coords="0,0,250,240" shape="rect">
+    <area target="" alt="NK Evasion paper" title="NK Evasion paper" href="https://mjanelee.github.io/publication/SARS-CoV-2_NK_escape" coords="260,0,500,240" shape="rect">
+    <area target="" alt="COVID NK review" title="COVID NK review" href="[https://www.nature.com/articles/s41590-023-01560-8](https://mjanelee.github.io/publication/COVID_NK_review)https://mjanelee.github.io/publication/COVID_NK_review" coords="500,240,1000,567" shape="rect">
 
 
