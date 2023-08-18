@@ -1,6 +1,8 @@
 ---
-title: "Coffee 1"
-excerpt: "<img src='/images/Coffee_2.JPG'>"
+title: "Selection from fruit series"
+excerpt: "<img src='/images/fruit.jpg'
+           height=600
+           width=600>"
 collection: portfolio
 ---
 
