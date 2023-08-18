@@ -2,7 +2,7 @@
 title: "Integrated analysis of multimodal single-cell data"
 collection: publications
 permalink: /publication/seurat_v4
-excerpt: 'This paper presents a framework that allows for the integration of multiple data types using single cells is applied to understand distinct immune cell states, previously unidentified immune populations, and to interpret immune responses to vaccinations.'
+excerpt: 'This paper presents a framework that allows for the integration of multiple data types using single cells. This framework can be applied to understand distinct immune cell states, previously unidentified immune populations, and to interpret immune responses to vaccinations.'
 date: 2021-06-24
 venue: 'Cell'
 paperurl: 'h[ttp://academicpages.github.io/files/paper3.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8238499/)'
