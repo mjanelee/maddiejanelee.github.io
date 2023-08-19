@@ -37,7 +37,7 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
   border: 4px solid red;
   height: 50%;
   width: 33%;
-  position: relative;
+  position: absolute;
   left: 20%;
   top: 0%;
 }
@@ -47,6 +47,7 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
   <img src="/files/Graphic_full.png" />
   <a id="anchor-box-1" href="https://mjanelee.github.io/publication/multi-omic_profiling" target="_blank"></a>
 </div>
-
+</body>
+</html>
 
 
