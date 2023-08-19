@@ -37,16 +37,34 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
 #anchor-box-1 {
   border: 4px solid red;
   height: 50%;
-  width: 30%;
+  width: 33%;
   position: absolute;
   left: 0%;
   top: 0%;
+}
+  #anchor-box-2 {
+  border: 4px solid blue;
+  height: 50%;
+  width: 33%;
+  position: absolute;
+  left: 33%;
+  top: 0%;
+}
+   #anchor-box-3 {
+  border: 4px solid green;
+  height: 50%;
+  width: 33%;
+  position: absolute;
+  left: 67%;
+  top: 50%;
 }
 </style>
 
 <div id="wrapper">
   <img src="/files/Graphic_full.png" />
-  <a id="anchor-box-1" href="https://mjanelee.github.io/publication/multi-omic_profiling" target="_blank"></a>
+  <a id="anchor-box-1" alt="Multi-omic paper" title="Multi-omic paper" href="https://mjanelee.github.io/publication/multi-omic_profiling" target="_blank"></a>
+  <a id="anchor-box-2" alt="NK Evasion paper" title="NK Evasion paper" href="https://mjanelee.github.io/publication/SARS-CoV-2_NK_escape" target="_blank"></a>
+  <a id="anchor-box-2" alt="COVID NK review" title="COVID NK review" href="https://mjanelee.github.io/publication/COVID_NK_review" target="_blank"></a>
 </div>
 </body>
 </html>
