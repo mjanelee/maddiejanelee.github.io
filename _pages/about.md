@@ -23,12 +23,18 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
 
 <style>
 
-img {
+#wrapper {
+  width: 100%;
+  max-width: 812px; /*actual width of image-- behaves strangely if exceeding this*/
+  position: relative;
+}
+
+#wrapper img {
   max-width: 100%;
 }
 
-wrapper anchor-box-1 {
-  border: 1px solid red;
+#anchor-box-1 {
+  border: 4px solid red;
   height: 44%;
   width: 17%;
   position: absolute;
