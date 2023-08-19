@@ -37,9 +37,9 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
 #anchor-box-1 {
   border: 4px solid red;
   height: 50%;
-  width: 33%;
+  width: 25%;
   position: absolute;
-  left: 20%;
+  left: 10%;
   top: 0%;
 }
 </style>
