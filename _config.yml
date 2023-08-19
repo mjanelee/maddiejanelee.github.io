@@ -11,7 +11,7 @@ title                    : "Maddie Jane Lee"
 title_separator          : "-"
 name                     : &name "Maddie Jane Lee"
 description              : &description "PhD Student at Stanford University"
-url                      : https://mjanelee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mjanelee.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mjanelee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maddie Lee"
   avatar           : "headshot.jpeg"
-  bio              : "Current PhD candidate at Stanford University intersted in natural killer cell biology in health and disease"
+  bio              : "PhD candidate in Immunology at Stanford University intersted in natural killer cell biology in health and disease"
   location         : "Stanford, CA"
   employer         : "Blish Lab"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
