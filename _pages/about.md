@@ -64,7 +64,7 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
   <img src="/files/Graphic_full.png" />
   <a id="anchor-box-1" alt="Multi-omic paper" title="Multi-omic paper" href="https://mjanelee.github.io/publication/multi-omic_profiling" target="_blank"></a>
   <a id="anchor-box-2" alt="NK Evasion paper" title="NK Evasion paper" href="https://mjanelee.github.io/publication/SARS-CoV-2_NK_escape" target="_blank"></a>
-  <a id="anchor-box-2" alt="COVID NK review" title="COVID NK review" href="https://mjanelee.github.io/publication/COVID_NK_review" target="_blank"></a>
+  <a id="anchor-box-3" alt="COVID NK review" title="COVID NK review" href="https://mjanelee.github.io/publication/COVID_NK_review" target="_blank"></a>
 </div>
 </body>
 </html>
