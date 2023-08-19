@@ -22,17 +22,17 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
       <h2>Want to learn more about my work? Click on each panel to see the paper associated with that part of the project!</h2>
 
 
-  #wrapper {
+  wrapper {
   width: 100%;
   max-width: 812px; /*actual width of image-- behaves strangely if exceeding this*/
   position: relative;
 }
 
-#wrapper img {
+wrapper img {
   max-width: 100%;
 }
 
-#anchor-box-1 {
+anchor-box-1 {
   border: 1px solid red;
   height: 44%;
   width: 17%;
