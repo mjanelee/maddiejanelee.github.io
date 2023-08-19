@@ -31,6 +31,7 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
 
 #wrapper img {
   max-width: 100%;
+  position: relative;
 }
 
 #anchor-box-1 {
@@ -43,7 +44,7 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
 }
 </style>
 
-<div class="wrapper">
+<div id="wrapper">
   <img src="/files/Graphic_full.png" />
   <a id="anchor-box-1" href="https://mjanelee.github.io/publication/multi-omic_profiling" target="_blank"></a>
 </div>
