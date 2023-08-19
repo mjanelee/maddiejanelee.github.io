@@ -37,7 +37,7 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
   border: 4px solid red;
   height: 15%;
   width: 13%;
-  position: relative;
+  position: absolute;
   left: 28%;
   top: 50%;
 }
