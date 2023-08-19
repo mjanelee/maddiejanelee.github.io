@@ -36,10 +36,10 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
 #anchor-box-1 {
   border: 4px solid red;
   height: 15%;
-  width: 15%;
-  position: absolute;
-  left: 34%;
-  top: 40%;
+  width: 13%;
+  position: relative;
+  left: 28%;
+  top: 50%;
 }
 </style>
 
