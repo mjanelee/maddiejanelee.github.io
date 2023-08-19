@@ -35,7 +35,7 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
 }
 
 #anchor-box-1 {
-  border: 4px solid red;
+ # border: 4px solid red;
   height: 50%;
   width: 33%;
   position: absolute;
@@ -43,7 +43,7 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
   top: 0%;
 }
   #anchor-box-2 {
-  border: 4px solid blue;
+ # border: 4px solid blue;
   height: 50%;
   width: 33%;
   position: absolute;
@@ -51,7 +51,7 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
   top: 0%;
 }
    #anchor-box-3 {
-  border: 4px solid green;
+ # border: 4px solid green;
   height: 50%;
   width: 33%;
   position: absolute;
@@ -66,7 +66,5 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
   <a id="anchor-box-2" alt="NK Evasion paper" title="NK Evasion paper" href="https://mjanelee.github.io/publication/SARS-CoV-2_NK_escape" target="_blank"></a>
   <a id="anchor-box-3" alt="COVID NK review" title="COVID NK review" href="https://mjanelee.github.io/publication/COVID_NK_review" target="_blank"></a>
 </div>
-</body>
-</html>
 
 
