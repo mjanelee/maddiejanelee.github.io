@@ -22,17 +22,12 @@ When I'm not in lab, you can find me hiking, reading, or hanging out with my cat
       <h2>Want to learn more about my work? Click on each panel to see the paper associated with that part of the project!</h2>
 
 <style>
-  wrapper {
-  width: 100%;
-  max-width: 812px; /*actual width of image-- behaves strangely if exceeding this*/
-  position: relative;
-}
 
- wrapper img {
+img {
   max-width: 100%;
 }
 
-anchor-box-1 {
+wrapper anchor-box-1 {
   border: 1px solid red;
   height: 44%;
   width: 17%;
@@ -42,7 +37,7 @@ anchor-box-1 {
 }
 </style>
 
-<div id="wrapper">
+<div class="wrapper">
   <img src="/files/Graphic_full.png" />
   <a id="anchor-box-1" href="https://mjanelee.github.io/publication/multi-omic_profiling" target="_blank"></a>
 </div>
