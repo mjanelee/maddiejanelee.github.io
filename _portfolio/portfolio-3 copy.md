@@ -1,8 +1,8 @@
 ---
 title: "Nana's Tea Set"
 excerpt: "<img src='/images/Teaset.JPG'
-           height=800
-           width=400>"
+           height=1000
+           width=500>"
 collection: portfolio
 ---
 
