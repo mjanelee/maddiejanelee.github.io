@@ -13,7 +13,7 @@ Hello! Thanks for checking out my website. My name is Maddie Lee and I'm a fifth
 I'm currently on the job market! I am planning to graduate in the spring of 2024 and am seeking a postdoc position where I can continue to study human NK cells in the context of cancer or chronic viral infection. I'm particularly interested in the development and implementation of better model systems for the study of human NK cell responses in vitro. If you are looking for a highly motivated postdocoral scholar with a passion for NK cells and human immunology, please feel free to contact me--my Stanford email is mjanelee@stanford.edu.
 <br>
 <br>
-When I'm not in lab, you can find me hiking, reading, painting, or hanging out with my cat, <a href="/files/minne!.jpg">Minneapolis</a>.
+When I'm not in lab, you can find me hiking, reading, <a href="https://mjanelee.github.io/portfolio/">painting</a>, or hanging out with my cat, <a href="/files/minne!.jpg">Minneapolis</a>. I'm also passionate about mental health in graduate school and regularly lead workshops on combating imposter syndrome in the Stanford Biosciences community.
 <br>
 <br>
 <html>
