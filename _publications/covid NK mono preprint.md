@@ -1,15 +1,13 @@
 ---
-title: "SARS-CoV-2 escapes direct NK cell killing through Nsp1-mediated downregulation of ligands for NKG2D"
+title: "NK cell-monocyte crosstalk underlies NK cell activation in severe COVID-19"
 collection: publications
-permalink: /publication/SARS-CoV-2_NK_escape
-excerpt: 'This paper demonstrates that healthy NK cells are unable to efficiently lyse SARS-CoV-2-infected cells, likely due to their loss of the ligands for the activating receptor NKG2D. These effects are mediated by the viral protein Nsp1.'
-date: 2022-12-22
-venue: 'Cell Reports'
-paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9742201/'
-citation: 'Lee MJ, Leong MW, Rustagi A, et al. SARS-CoV-2 escapes direct NK cell killing through Nsp1-mediated downregulation of ligands for NKG2D. Cell Rep. 2022;41(13):111892. doi:10.1016/j.celrep.2022.111892'
+permalink: /publication/COVID_NK_mono
+excerpt: 'This paper interrogates communication between NK cells and other peripheral immune cells in severe COVID-19 and demonstrates that monocytes from severe COVID-19 patients are capable of inducing activating in healthy donor NK cells.'
+date: 2023-10-31
+venue: 'bioRxiv'
+paperurl: 'https://www.biorxiv.org/content/10.1101/2023.10.27.564440v1'
+citation: 'Lee, M. J. et al. NK cell-monocyte crosstalk underlies NK cell activation in severe COVID-19. bioRxiv 2023.10.27.564440 (2023) doi:10.1101/2023.10.27.564440.'
 ---
-Natural killer (NK) cells are cytotoxic effector cells that target and lyse virally infected cells; many viruses therefore encode mechanisms to escape such NK cell killing. Here, we interrogate the ability of SARS-CoV-2 to modulate NK cell recognition and lysis of infected cells. We find that NK cells exhibit poor cytotoxic responses against SARS-CoV-2-infected targets, preferentially killing uninfected bystander cells. We demonstrate that this escape is driven by downregulation of ligands for the activating receptor NKG2D (NKG2D-L). Indeed, early in viral infection, prior to NKG2D-L downregulation, NK cells are able to target and kill infected cells; however, this ability is lost as viral proteins are expressed. Finally, we find that SARS-CoV-2 non-structural protein 1 (Nsp1) mediates downregulation of NKG2D-L and that Nsp1 alone is sufficient to confer resistance to NK cell killing. Collectively, our work demonstrates that SARS-CoV-2 evades direct NK cell cytotoxicity and describes a mechanism by which this occurs.
+NK cells in the peripheral blood of severe COVID-19 patients exhibit a unique profile characterized by activation and dysfunction. Previous studies have identified soluble factors, including type I interferon and TGFβ, that underlie this dysregulation. However, the role of cell-cell interactions in mediating changes in NK cell function during COVID-19 remains unclear. To address this question, we combined cell-cell communication analysis on existing single-cell RNA sequencing data with in vitro primary cell co-culture experiments to dissect the mechanisms underlying NK cell dysfunction in COVID-19. We found that NK cells are predicted to interact most strongly with monocytes and that this occurs via both soluble factors and direct interactions. To validate these findings, we performed in vitro co-cultures in which NK cells from healthy donors were incubated with monocytes from COVID-19+ or healthy donors. Co-culture of healthy NK cells with monocytes from COVID-19 patients recapitulated aspects of the NK cell phenotype observed in severe COVID-19, including decreased expression of NKG2D, increased expression of activation markers, and increased proliferation. When these experiments were performed in a transwell setting, we found that only CD56bright CD16- NK cells were activated in the presence of severe COVID-19 patient monocytes. O-link analysis of supernatants from transwell co-cultures revealed that cultures containing severe COVID-19 patient monocytes had significantly elevated levels of proinflammatory cytokines and chemokines as well as TGFβ. Collectively, these results demonstrate that interactions between NK cells and monocytes in the peripheral blood of COVID-19 patients contribute to NK cell activation and dysfunction in severe COVID-19.
 
-[Download paper here](http://mjanelee.github.io/files/SARS-CoV-2_NK_escape.pdf)
-
-Recommended citation: Lee MJ, Leong MW, Rustagi A, et al. SARS-CoV-2 escapes direct NK cell killing through Nsp1-mediated downregulation of ligands for NKG2D. Cell Rep. 2022;41(13):111892. doi:10.1016/j.celrep.2022.111892
+Recommended citation: Lee, M. J. et al. NK cell-monocyte crosstalk underlies NK cell activation in severe COVID-19. bioRxiv 2023.10.27.564440 (2023) doi:10.1101/2023.10.27.564440.
