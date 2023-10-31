@@ -86,12 +86,12 @@ When I'm not in lab, you can find me hiking, reading, <a href="https://mjanelee.
 
 <div id="wrapper">
   <img src="/files/Graphic_full.png" />
-  <a id="anchor-box-1" alt="Multi-omic paper" title="Multi-omic paper" href="https://mjanelee.github.io/publication/multi-omic_profiling" target="_blank"></a>
-  <a id="anchor-box-2" alt="NK Evasion paper" title="NK Evasion paper" href="https://mjanelee.github.io/publication/SARS-CoV-2_NK_escape" target="_blank"></a>
-  <a id="anchor-box-3" alt="COVID NK review" title="COVID NK review" href="https://mjanelee.github.io/publication/COVID_NK_review" target="_blank"></a>
-  <a id="anchor-box-4" alt="Stay tuned!" title="Stay tuned!" href="https://mjanelee.github.io/stay-tuned/" target="_blank"></a>
+  <a id="anchor-box-1" alt="Multi-omic paper" title="Multi-omic paper" href="https://pubmed.ncbi.nlm.nih.gov/34128959/" target="_blank"></a>
+  <a id="anchor-box-2" alt="NK Evasion paper" title="NK evasion paper" href="https://pubmed.ncbi.nlm.nih.gov/36543165/" target="_blank"></a>
+  <a id="anchor-box-3" alt="COVID NK review" title="COVID NK review" href="https://www.nature.com/articles/s41590-023-01560-8" target="_blank"></a>
+  <a id="anchor-box-4" alt="NK-mono interactions" title="NK-mono interactions" href="https://www.biorxiv.org/content/10.1101/2023.10.27.564440v1" target="_blank"></a>
   <a id="anchor-box-5" alt="Stay tuned!" title="Stay tuned!" href="https://mjanelee.github.io/stay-tuned/" target="_blank"></a>
-  <a id="anchor-box-6" alt="Stay tuned!" title="Stay tuned!" href="https://mjanelee.github.io/stay-tuned/" target="_blank"></a>
+  <a id="anchor-box-6" alt="NK-mono interactions" title="NK-mono interactions" href="https://www.biorxiv.org/content/10.1101/2023.10.27.564440v1" target="_blank"></a>
 </div>
 
 
