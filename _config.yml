@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maddie Jane Lee"
 title_separator          : "-"
 name                     : &name "Maddie Jane Lee"
-description              : &description "PhD Student at Stanford University"
+description              : &description "Postdoctoral fellow at the University of Minnesota"
 url                      : https://mjanelee.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mjanelee.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maddie Lee"
+  name             : "Maddie Lee, PhD"
   avatar           : "headshot.jpeg"
-  bio              : "PhD candidate in Immunology at Stanford University intersted in natural killer cell biology in health and disease"
-  location         : "Stanford, CA"
-  employer         : "Blish Lab"
+  bio              : "Postdoctoral fellow at the University of Minnesota interested in natural killer cell biology in health and disease"
+  location         : "Minneapolis, MN"
+  employer         : "Miller and Cichocki Labs"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wLN-FxAAAAAJ&hl=en"
   email            : "mjanelee@stanford.edu"
